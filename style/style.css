@@ -41,3 +41,13 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
+body{width: 1440px;}
+header{
+    background-color: #FB3F5C;
+    height: 100px;
+}
+
+.header_group_nav{
+    width:
+    height: 50px;
+}
