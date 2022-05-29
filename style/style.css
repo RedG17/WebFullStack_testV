@@ -48,6 +48,7 @@ header{
 }
 
 .header_group_nav{
-    width:
+    width: 1190px;
     height: 50px;
+    margin: 0 auto;
 }
